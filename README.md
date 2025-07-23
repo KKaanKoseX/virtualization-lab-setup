@@ -19,7 +19,7 @@ Bu proje, VMware Workstation üzerinde nested sanallaştırma yöntemiyle kurulm
 
 ## 📁 Belgeler
 
-Tüm adım adım kurulum dökümanlarına [`/docs`](./docs) klasöründen ulaşabilirsiniz.
+Tüm adım adım kurulum dökümanlarına [`/docs`](./docs.md) klasöründen ulaşabilirsiniz.
 
 ## 📷 Ekran Görüntüleri
 
