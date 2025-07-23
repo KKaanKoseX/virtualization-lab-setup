@@ -15,14 +15,14 @@ Ekran görüntüsünde verilen ip adresini tarayıcınızdan girdikten, Proxmox 
 
 
 4. Proxmox sanallaştırma ortamına windows-server kurulumu.
-   Öncelikli olarak windows-server-25 iso dosyasını indirmemiz gerekiyor.
+   Öncelikli olarak windows-server-22 iso dosyasını indirmemiz gerekiyor.
    İndirme işlemi bittikten sonra Proxmox web arayüzünde sol tarafta bulunan Server View ekranında bulunan Datacenter>pve>local(pve)>ISO Images sekmesine Iso image'imizi eklememiz gerekiyor.
 
 
    <img width="1457" height="738" alt="resim" src="https://github.com/user-attachments/assets/4cd3125f-deba-45f8-a1a5-6a7268bf83a8" />
 
 
-5. Sanallaştırma ortamın'a ISO dosyasını ekledikten sonra sağ üst kısımda bulunan Create VM ile Windows-Server-25 sanal makinemizin kurulumunu yapıyoruz.
+5. Sanallaştırma ortamın'a ISO dosyasını ekledikten sonra sağ üst kısımda bulunan Create VM ile Windows-Server-22 sanal makinemizin kurulumunu yapıyoruz.
    General kısmında snal makineye isim verdikten sonra Next'e tıklayıp OS sekmesinde ise kuracağımız ve Virtual Environment'a eklediğimiz iso dosyasını seçiyoruz. Operation System olarak Microsoft Windows'u seçtiğinizden emin    olun.
 
 <img width="1457" height="738" alt="resim" src="https://github.com/user-attachments/assets/8d2f0593-775a-4f74-a991-636a9fd323de" />
