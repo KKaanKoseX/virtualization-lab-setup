@@ -23,7 +23,8 @@ Ekran görüntüsünde verilen ip adresini tarayıcınızdan girdikten, Proxmox 
 
 
 5. Sanallaştırma ortamın'a ISO dosyasını ekledikten sonra sağ üst kısımda bulunan Create VM ile Windows-Server-22 sanal makinemizin kurulumunu yapıyoruz.
-   General kısmında snal makineye isim verdikten sonra Next'e tıklayıp OS sekmesinde ise kuracağımız ve Virtual Environment'a eklediğimiz iso dosyasını seçiyoruz.
+   General kısmında snal makineye isim verdikten sonra Next'e tıklayıp OS sekmesinde ise kuracağımız ve Virtual Environment'a eklediğimiz iso dosyasını seçiyoruz. Operation System olarak Microsoft Windows'u seçtiğinizden emin    olun.
 
-   <img width="1457" height="783" alt="resim" src="https://github.com/user-attachments/assets/baec2bdd-5953-4f3d-8318-17c352cb5cd7" />
+<img width="1457" height="738" alt="resim" src="https://github.com/user-attachments/assets/8d2f0593-775a-4f74-a991-636a9fd323de" />
+
 
