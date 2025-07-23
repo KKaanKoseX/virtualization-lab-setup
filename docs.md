@@ -5,3 +5,5 @@ Bu projede VMware sanallaştırma ortamı ve Proxmox VE kullanılarak sanal bir 
 
 3. Proxmox kurulumunu yaptıktan sonra(kullanıcı adı:root şifre:belirlediğiniz şifre.).
 <img width="1457" height="738" alt="Screenshot 2025-07-23 152841" src="https://github.com/user-attachments/assets/f03714a2-658e-49fd-ae40-8233e3a15241" />
+
+Ekran görüntüsünde 
