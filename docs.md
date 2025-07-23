@@ -9,3 +9,8 @@ Bu projede VMware sanallaştırma ortamı ve Proxmox VE kullanılarak sanal bir 
 Ekran görüntüsünde verilen ip adresini tarayıcınızdan girdikten, Proxmox web arayüzüne erişip kullanıcı adı ve şifrenizi girdikten sonra kurmuş olduğunuz sanal ortamın web arayüzüne bağlanmış olacaksnız.
 
 <img width="1914" height="783" alt="resim" src="https://github.com/user-attachments/assets/2561ed54-7b84-481a-9e15-2205e377226d" />
+
+4. Proxmox sanallaştırma ortamına windows-server kurulumu.
+   Öncelikli olarak windows-server-22 iso dosyasını indirmemiz gerekiyor.
+   İndirme işlemi bittikten sonra Proxmox web arayüzünde sol tarafta bulunan Server View ekranında bulunan Datacenter>pve>local(pve)>ISO Images sekmesine Iso image'imizi eklememiz gerekiyor.
+   <img width="1913" height="753" alt="resim" src="https://github.com/user-attachments/assets/4cd3125f-deba-45f8-a1a5-6a7268bf83a8" />
