@@ -13,7 +13,7 @@ Bu proje, VMware Workstation üzerinde nested sanallaştırma yöntemiyle kurulm
 
 - VMware Workstation
 - Proxmox VE
-- Windows Server 2022 Evaluation
+- Windows Server 2025
 - Ubuntu Server 22.04 LTS
 - Veeam Backup & Replication
 
