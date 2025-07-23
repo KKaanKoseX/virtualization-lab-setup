@@ -28,3 +28,6 @@ Ekran görüntüsünde verilen ip adresini tarayıcınızdan girdikten, Proxmox 
 <img width="1457" height="738" alt="resim" src="https://github.com/user-attachments/assets/8d2f0593-775a-4f74-a991-636a9fd323de" />
 
 
+BİLGİLENDİRME -------> Nested Virtualization için sistem gereksinimlerim yetersiz olduğu için VMware içerisinde Proxmox kullanmayıp, oluşturacağım sistemi VMware üzerinden oluşturmak durumundayım, fakat proxmox üzerinden bu adımları gerçekleştirebilirsiniz.
+
+
